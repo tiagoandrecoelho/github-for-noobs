@@ -42,3 +42,9 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/osx,jekyll,codekit
+
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
